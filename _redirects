@@ -1,0 +1,10 @@
+# URL Redirects for Cloudflare Pages
+# Format: source destination status_code
+
+# Example redirects (customize as needed)
+# /old-about    /about         301
+# /blog/*       /blog.html     200
+# /contact-us   /contact       302
+
+# Force HTTPS (already done by Cloudflare, but explicit)
+# https://agency-landing.domain.com/*  https://agency-landing.domain.com/:splat  301

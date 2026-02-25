@@ -1,0 +1,26 @@
+{
+  "name": "nexus-agency-website",
+  "version": "1.0.0",
+  "description": "Professional agency landing page for Nexus Agency",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "deploy:cf": "echo 'Deploy to Cloudflare Pages via Git integration'"
+  },
+  "keywords": [
+    "agency",
+    "landing-page",
+    "cloudflare-pages",
+    "tailwindcss"
+  ],
+  "author": "Nexus Agency",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kresnaputra/agency-landing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kresnaputra/agency-landing/issues"
+  },
+  "homepage": "https://agency-landing.pages.dev"
+}
